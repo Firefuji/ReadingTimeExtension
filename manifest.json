@@ -11,7 +11,7 @@
         "128": "images/icon-128.png"
     },
 
-    "content-scripts": [
+    "content_scripts": [
         {
             "js": ["scripts/content.js"],
             "matches": [
